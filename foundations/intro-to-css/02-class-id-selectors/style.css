@@ -1,1 +1,27 @@
-/* Add CSS Styling */
+/* styles.css */
+
+
+.pink-background {
+    background-color: rgb(244, 154, 154);
+}
+
+.fonts {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+   color: rgb(10, 10, 236); 
+   font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(120, 230, 139);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
