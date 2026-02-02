@@ -1,1 +1,8 @@
-/* Add CSS Styling */
+/* style.css */
+
+.container .text {
+    background-color: rgb(255, 228, 93);
+    color: rgb(255, 90, 90);
+    font-size: 20px;
+    text-align: center;
+}
